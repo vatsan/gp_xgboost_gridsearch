@@ -15,5 +15,5 @@
 ### Note: XGBoost and Python 2.6 
 Since the XGBoost implementation in https://github.com/dmlc/xgboost is not Python 2.6 compatible, I recommend you clone my version from https://github.com/vatsan/xgboost and use it instead (Python 2.6 compatible, will work with PL/Python on Greenplum/HAWQ).
 
-### Implementation details
+### Implementation details for in-database parallel grid search
 ![In-database parallel grid-search](https://raw.githubusercontent.com/vatsan/gp_xgboost_gridsearch/master/img/gp_xgboost.png)
