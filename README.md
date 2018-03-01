@@ -1,4 +1,4 @@
-##In-database parallel grid-search wrapper for XGBoost
+## In-database parallel grid-search wrapper for XGBoost
 
 ### Dependencies 
 
